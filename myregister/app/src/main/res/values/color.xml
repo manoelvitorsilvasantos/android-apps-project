@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#E30055</color>
+	<color name="colorPrimaryDark">#86888C</color>
+	<color name="colorAccent">#000000</color>
+	<color name="branco">#FFFFFF</color>
+	<color name="preto">#000000</color>
+	<color name="azul">#0000FF</color>
+	<color name="vermelho">#FF0000</color>
+	<color name="verde_neon">#00FF22</color>
+	<color name="verde_claro">#00FF00</color>
+	<color name="laranja">#FF8800</color>
+	<color name="amarelo">#FFFF00</color>
+	<color name="azul_anil">#00FFFF</color>
+	<color name="cinza_medio">#BBBBBB</color>
+	<color name="cinza_medio_claro">#CCCCCC</color>
+	<color name="cinza_claro">#DDDDDD</color>
+	<color name="branco_cinza">#EEEEEE</color>
+	<color name="amarelo_segundo">#FFF000</color>
+	<color name="amarelo_escuro">#AAA000</color>
+	<color name="amarelo_escuro_segundo">#BBB000</color>
+	<color name="amarelo_escuro_terceiro">#CCC000</color>
+	<color name="amarelo_medio">#DDD000</color>
+	<color name="amarelo_medio_claro">#EEE000</color>
+	<color name="lilais">#FF00FF</color>
+	<color name="lilais_claro">#FFBBFF</color>
+	<color name="violeta">#F002FF</color>
+	<color name="texto_login">#255255</color>
+</resources>
